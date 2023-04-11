@@ -1,5 +1,5 @@
-# Tableau-Profile:
-https://public.tableau.com/app/profile/spike7973
+# Tableau-Profile: https://public.tableau.com/app/profile/spike7973
+
 
 
 Video Game Sales:
